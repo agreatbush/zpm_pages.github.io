@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I received my Ph.D. in Computational Mathematics from Peking University, where I was advised by Academician Weinan E. Previously, I completed my Bachelor's degree in the BaiLing Honors Class at the School of Mathematical Sciences, Nankai University. Since August 2024, I have been with DAMO Academy at Alibaba Group.
+Hi, I am Zeping Min. I received my Ph.D. in Computational Mathematics from Peking University, where I was advised by Academician Weinan E. Previously, I completed my Bachelor's degree in the BaiLing Honors Class at the School of Mathematical Sciences, Nankai University. Since August 2024, I have been with DAMO Academy at Alibaba Group.
 
 My research interests include the mathematical foundations of large language models (LLMs), semi-supervised learning, and speech recognition. I am also interested in LLM-based autonomous agents.
 
